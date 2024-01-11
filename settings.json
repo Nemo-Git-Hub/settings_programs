@@ -1,0 +1,22 @@
+{
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 18,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "bracketPairColorizer.depreciation-notice": false,
+  "files.autoSave": "onFocusChange",
+        "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.endOfLine": "auto",
+  "editor.accessibilitySupport": "off",
+    "window.zoomLevel": 1,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "cSpell.userWords": ["luxon"]
+}
